@@ -1,5 +1,6 @@
 ---
 createTime: 2025/09/29 14:19:51
+permalink: /mnt74gun/
 ---
 # All-in-RAG | 大模型应用开发实战一：RAG技术全栈指南
 
@@ -30,17 +31,8 @@ createTime: 2025/09/29 14:19:51
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <table>
-    <tr>
-      <td align="center">🎯 <strong>系统化学习</strong><br>完整的RAG技术体系</td>
-      <td align="center">🛠️ <strong>动手实践</strong><br>丰富的项目案例</td>
-      <td align="center">🚀 <strong>生产就绪</strong><br>工程化最佳实践</td>
-      <td align="center">📊 <strong>多模态支持</strong><br>文本+图像检索</td>
-    </tr>
-  </table>
-</div>
+| 🎯 **系统化学习**<br>完整的RAG技术体系 | 🛠️ **动手实践**<br>丰富的项目案例 | 🚀 **生产就绪**<br>工程化最佳实践 | 📊 **多模态支持**<br>文本+图像检索 |
+|:---:|:---:|:---:|:---:|
 
 ## 项目简介（中文 | [English](README_en.md)）
 
